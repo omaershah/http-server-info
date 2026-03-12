@@ -1,3 +1,4 @@
+--!strict
 local httpService = game:GetService("HttpService")
 local workspace = game:GetService('Workspace')
 local MAX_RETRIES = 250
